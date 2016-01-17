@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name TSOT23-8)(type KiCad)(uri ${KIPRJMOD}/footprints)(options "")(descr ""))
+  (lib (name footprints)(type KiCad)(uri ${KIPRJMOD}/footprints)(options "")(descr ""))
+)
