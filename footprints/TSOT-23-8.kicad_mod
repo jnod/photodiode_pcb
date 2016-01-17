@@ -1,10 +1,11 @@
-(module TSOT-23-8 (layer F.Cu) (tedit 569B2E37)
+(module TSOT-23-8 (layer F.Cu) (tedit 569BD558)
   (fp_text reference SMD (at 1.4708 -2.3544) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value TSOT-23-8 (at 1.42 -0.97) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
+  (fp_line (start -0.18 3.32) (end -0.18 3.73) (layer F.SilkS) (width 0.15))
   (fp_line (start 2.63 2.82) (end 2.53 2.82) (layer F.SilkS) (width 0.15))
   (fp_line (start 2.63 1.02) (end 2.53 1.02) (layer F.SilkS) (width 0.15))
   (fp_line (start -0.18 2.82) (end -0.18 3.32) (layer F.SilkS) (width 0.15))
