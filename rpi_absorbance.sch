@@ -512,9 +512,7 @@ $EndComp
 Wire Wire Line
 	4250 2050 4250 2500
 Wire Wire Line
-	4900 2500 5400 2500
-Wire Wire Line
-	5400 2500 5400 2300
+	4900 2500 5600 2500
 $Comp
 L GND #PWR015
 U 1 1 56A00F92
@@ -557,8 +555,6 @@ Wire Wire Line
 	4600 2650 4900 2650
 Wire Wire Line
 	4900 2650 4900 2500
-NoConn ~ 5500 2300
-NoConn ~ 5600 2300
 Connection ~ 4500 2500
 $Comp
 L C_Small C10
@@ -625,4 +621,16 @@ Connection ~ 3550 3050
 Wire Wire Line
 	4250 2500 4500 2500
 NoConn ~ 4800 2500
+Wire Wire Line
+	5600 2500 5600 2300
+Wire Wire Line
+	4750 2600 5500 2600
+Wire Wire Line
+	5500 2600 5500 2300
+Connection ~ 4750 2600
+Wire Wire Line
+	4850 2900 5400 2900
+Wire Wire Line
+	5400 2900 5400 2300
+Connection ~ 4850 2900
 $EndSCHEMATC
