@@ -182,7 +182,7 @@ U 1 1 569B2F31
 P 6750 4000
 F 0 "R2" H 6780 4020 50  0000 L CNN
 F 1 "16k" H 6780 3960 50  0000 L CNN
-F 2 "jnod_footprints:R_0603_smaller_handsolder" H 6750 4000 50  0001 C CNN
+F 2 "Resistors_SMD:R_0603" H 6750 4000 50  0001 C CNN
 F 3 "" H 6750 4000 50  0000 C CNN
 	1    6750 4000
 	-1   0    0    1   
